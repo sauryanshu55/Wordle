@@ -9,7 +9,7 @@ Method 2:
 1) Save the wordle.c file
 2) Navigate to the file using the terminal
 3) Call in the command
-   $- gcc wordle.c -o wordle4
+   $- gcc wordle.c -o wordle
 4) And then ./wordle
 5) If gcc is not installed enter the following command in the terminal
    $- sudo apt gcc install
